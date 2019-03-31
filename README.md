@@ -54,4 +54,4 @@ Dataset : https://drive.google.com/file/d/1JUM5y1o4hYdZIioy2gN-I22a8673S6Pt/view
 
 
 ## Desired output
-![](https://i.imgur.com/f9V52RZ.png)
+![](https://i.imgur.com/oHSEX8W.png)
